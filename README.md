@@ -18,9 +18,9 @@ docker-compose up database
 ```
 and 
 ```bash
-docker-compose up graphql-engine,
+docker-compose up graphql-engine
 ```
-once this is done simply execute ipm-p1.py by using 
+Once this is done simply execute ipm-p1.py by using 
 ```bash
 python3 ipm-p1.py
 ```
