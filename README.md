@@ -1,4 +1,4 @@
-# Desktop_python_app
+# Python 3.8 COVID Tracker
  Python 3.8 app to visualize and work with data provided using a REST API. 
  This app was developed as a practical for the IPM subject.
  
