@@ -2,23 +2,23 @@
  Python 3.8 app to visualize and work with data provided using a REST API.
  
  Dependencies:
- > -Gi
- > 
- > -GTK 3.0
- > 
- > -Requests
- > 
- > -Threading
- > 
- > -Datetime
- > 
- > -Typing
- > 
- > -Pytz
- > 
- > -Time
- > 
- > -Qrcode
+  -Gi
+  
+  -GTK 3.0
+  
+  -Requests
+  
+  -Threading
+  
+  -Datetime
+  
+  -Typing
+  
+  -Pytz
+  
+  -Time
+  
+  -Qrcode
 
 To run the app first unzip the docker server and run 
 ```bash
