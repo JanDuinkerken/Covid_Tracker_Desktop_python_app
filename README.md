@@ -38,3 +38,6 @@ or
 ```bash
 ./ipm-p1.py
 ```
+
+Developed by Diego García López, Miguel Sánchez Pérez and me (Jan Duinkerken Rodríguez)
+
